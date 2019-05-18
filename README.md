@@ -1,3 +1,1 @@
-# resistor-search
-# resistor-search
-# resistor-search
+App para descobrir o valor do resistor baseado nas cores. Desenvolvido para estudo do react native.
